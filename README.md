@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @nick-sweeten
 
+<!--
 - 👀 I’m interested in...
       Well... a variety of things.  Im interested in tech and science, electrical engineering, computer science and the internet...
       ... statistics and data... but most of all, Im passionate about mathematics.
